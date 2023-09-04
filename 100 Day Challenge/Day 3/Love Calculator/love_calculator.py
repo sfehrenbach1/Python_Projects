@@ -6,6 +6,7 @@ name2 = input("What is their name? \n")
 
 #Write your code below this line 👇
 
+#Converts all characters into lower case
 lower_case_name1 = name1.lower()
 lower_case_name2 = name2.lower()
 
